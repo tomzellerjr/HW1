@@ -1,10 +1,10 @@
-1. If we were interested in understanding summary statistics at a glance (minimum, maximum, etc.), how could you improve the display of the table?
+Q. If we were interested in understanding summary statistics at a glance (minimum, maximum, etc.), how could you improve the display of the table?
 
 >A quick solution would be to sort the data according to unemployment rate -- either ascending or descending from highest to lowest/lowest to highest. Other options, depending on what it is you want to emphasize, would be to group, or "bin" certain states together by region (e.g. Southeast, Southwest, Pacific, Midwest, Northeast, etc.) That would give you another point of comparison. 
 
 
 
-2. Find three varied examples on the web that present tabular data in a different layout or in more visually compelling, complete, interactive or interesting ways.
+Q. Find three varied examples on the web that present tabular data in a different layout or in more visually compelling, complete, interactive or interesting ways.
 
 >**The Kaiser Family Foundation
 <br>Infant Mortality Rates, 2007-2009**<br>
